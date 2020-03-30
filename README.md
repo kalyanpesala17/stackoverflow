@@ -1,5 +1,7 @@
 # stackoverflow
 how to get a job as a developer? From stackoverflow developer survey results.
+# Installation
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*
 # Project Motivation
 For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
 
