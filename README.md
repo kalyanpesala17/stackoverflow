@@ -9,3 +9,5 @@ What are the most important things to look when you are applying for a job?
 What are the important skills in the hiring process when recruiting software developers?      
 Outside of formal education, Which of the following have they done and how important are those to get a high salary?      
 What do developers prefer, Tabs or spaces?
+# Licensing, Authors, Acknowledgements
+Must give credit to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!
