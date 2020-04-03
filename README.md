@@ -1,5 +1,6 @@
 # stackoverflow
-how to get a job as a developer? From stackoverflow developer survey results.
+A data-driven approach using Stack Overflow's developer survey data for getting a job as a developer.
+
 # Installation
 pandas    
 numpy   
